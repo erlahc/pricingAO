@@ -8,8 +8,8 @@ Opérateur Téléphonie Complexe,150,A1.2,433
 Opérateur Téléphonie Complexe,60,A1.2,235
 Opérateur Téléphonie Complexe,30,A1.2,160
 Opérateur Téléphonie Complexe,15,A1.3,140
-Opérateur Téléphonie Complexe,7,5,A1.3,80
-Opérateur Téléphonie Complexe,1,5,A1.3,56
+Opérateur Téléphonie Complexe,7.5,A1.3,80
+Opérateur Téléphonie Complexe,1.5,A1.3,56
 Opérateur Téléphonie Complexe,0,A1.3,32
 Opérateur Téléphonie Simple,7000,A1.1,2610
 Opérateur Téléphonie Simple,3000,A1.1,1810
@@ -20,8 +20,8 @@ Opérateur Téléphonie Simple,150,A1.2,355
 Opérateur Téléphonie Simple,60,A1.2,220
 Opérateur Téléphonie Simple,30,A1.2,160
 Opérateur Téléphonie Simple,15,A1.3,140
-Opérateur Téléphonie Simple,7,5,A1.3,80
-Opérateur Téléphonie Simple,1,5,A1.3,56
+Opérateur Téléphonie Simple,7.5,A1.3,80
+Opérateur Téléphonie Simple,1.5,A1.3,56
 Opérateur Téléphonie Simple,0,A1.3,32
 Déchets & Recyclage,200,B1.1,544
 Déchets & Recyclage,150,B1.1,496
@@ -41,7 +41,7 @@ Transport opérationnel,35,C2.3,280
 Transport opérationnel,55,C2.3,340
 Transport opérationnel,100,C2.3,535
 Edition,0,D3.1,27
-Edition,2,5,D3.2,65
+Edition,2.5,D3.2,65
 Edition,5,D3.3,88
 Edition,30,D3.4,100
 Edition,50,D3.5,160
